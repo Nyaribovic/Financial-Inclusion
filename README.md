@@ -10,7 +10,7 @@ This repository contains the python code that the project has utilized.
 
 
 The repository contains the following files/folders:
-* requirements.txt: This file contains the necessary libraries, see the section "How to Use them" in this README.
+
 * data: The data folder contains data in csv-format. The name of the columns and an explanation of each column.
 * notebooks: This folder contains the Colab. Moringa_Data_Science_Core_W2_Independent_Project_2021_03_Victor_Bundi_Financial_Inclusion.ipynb which contains the main analysis. 
 * README: This README.
@@ -19,7 +19,7 @@ The repository contains the following files/folders:
 **Packages**
 
 
-The following packages are necessary to run the cells �Notebook�Moringa_Data_Science _Core_W2_Independent_Project_2021_03_Victor_Bundi_Financial_Inclusion.ipynb:
+The following packages are necessary to run the cells in Colab Notebook Moringa_Data_Science _Core_W2_Independent_Project_2021_03_Victor_Bundi_Financial_Inclusion.ipynb:
 * import pandas as pd
 * import numpy as np
 * import seaborn as sns
@@ -30,4 +30,4 @@ The following packages are necessary to run the cells �Notebook�Moringa_Data
 **How To Use It**
 
 
-All code is in the  Notebook�. Please assure that all dependencies which are mentioned in the section Packages have been installed. Further, the business questions as well as their answers are contained in�the  markdown cells.
+All code is in the  Notebook. Please enssure that all dependencies which are mentioned in the section Packages have been installed. Further, the business questions as well as their answers are contained in the  markdown cells.
